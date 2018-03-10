@@ -1,0 +1,112 @@
+@font-face {
+    font-family: 'focusregular';
+    src: url('../assets/fonts/focus-regular-webfont.woff2') format('woff2'),
+         url('../assets/fonts/focus-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'focusmedium_italic';
+    src: url('../assets/fonts/focus-mediumitalic-webfont.woff2') format('woff2'),
+         url('../assets/fonts/focus-mediumitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'focusmedium';
+    src: url('../assets/fonts/focus-medium-webfont.woff2') format('woff2'),
+         url('../assets/fonts/focus-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'focusitalic';
+    src: url('../assets/fonts/focus-italic-webfont.woff2') format('woff2'),
+         url('../assets/fonts/focus-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'aquaticoregular';
+    src: url('../assets/fonts/aquatico-regular-webfont.woff2') format('woff2'),
+         url('../assets/fonts/aquatico-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'fox__catregular';
+    src: url('../assets/fonts/fox__cat-webfont.woff2') format('woff2'),
+         url('../assets/fonts/fox__cat-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'rubikblack';
+    src: url('../assets/fonts/rubik-black-webfont.woff2') format('woff2'),
+         url('../assets/fonts/rubik-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'rubikblack_italic';
+    src: url('../assets/fonts/rubik-blackitalic-webfont.woff2') format('woff2'),
+         url('../assets/fonts/rubik-blackitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'rubikbold';
+    src: url('../assets/fonts/rubik-bold-webfont.woff2') format('woff2'),
+         url('../assets/fonts/rubik-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'rubikbold_italic';
+    src: url('../assets/fonts/rubik-bolditalic-webfont.woff2') format('woff2'),
+         url('../assets/fonts/rubik-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'rubikitalic';
+    src: url('../assets/fonts/rubik-italic-webfont.woff2') format('woff2'),
+         url('../assets/fonts/rubik-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'rubiklight';
+    src: url('../assets/fonts/rubik-light-webfont.woff2') format('woff2'),
+         url('../assets/fonts/rubik-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'rubiklight_italic';
+    src: url('../assets/fonts/rubik-lightitalic-webfont.woff2') format('woff2'),
+         url('../assets/fonts/rubik-lightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'rubikmedium';
+    src: url('../assets/fonts/rubik-medium-webfont.woff2') format('woff2'),
+         url('../assets/fonts/rubik-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'rubikmedium_italic';
+    src: url('../assets/fonts/rubik-mediumitalic-webfont.woff2') format('woff2'),
+         url('../assets/fonts/rubik-mediumitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'rubikregular';
+    src: url('../assets/fonts/rubik-regular-webfont.woff2') format('woff2'),
+         url('../assets/fonts/rubik-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

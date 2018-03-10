@@ -1,0 +1,169 @@
+<<<<<<< HEAD
+
+/** {
+    margin: 0px;
+    padding: 0px;
+    font-family: aquaticoregular;
+    background-color: blue;
+}
+*/
+
+body {
+    background-color: #9389C8;
+}
+#sidebar {
+    position:fixed;
+    width: 200px;
+    height: 100%;
+    background: #37598B;
+    left: -200px;
+    transition: all 200ms linear;
+}
+
+#sidebar.active {
+left:0px;
+}
+
+#sidebar ul li {
+    color: black;
+    list-style: none;
+    padding: 15px 10px;
+    border-bottom: 3px solid #24477;
+}
+
+#sidebar .toggle-btn {
+    position: absolute;
+    left:210px;
+    top:10px;
+}
+#sidebar .toggle-btn span {
+    display:block;
+    width: 30px;
+    height: 5px;
+    margin: 3px 0px;
+    background-color: #4A3D92;
+}
+.toggle-btn:hover {
+box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+-webkit-transition-duration: 0.4s; /* Safari */
+transition-duration: 0.4s;
+}
+
+#sidebar button{
+    color: black;
+    background-color: #4A9C8C;
+    border: 2px solid #2D8775;
+    width: 175px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    font-family: aquaticoregular;
+    font-size: 18px;
+}
+#sidebar button:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color: #2D8775;
+    border: 2px solid #197462;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    font-family: aquaticoregular;
+}
+#sidebar button:active{
+    background-color: #197462;
+    border: 2px solid #085C4B;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    font-family: aquaticoregular;
+=======
+.dusty {
+    color: #96858F
+}
+
+.lavendar {
+    color: #6D7993
+}
+
+.overcast {
+    color: #9099A2
+}
+
+.paper {
+    color: #D5D5D5
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+svg {
+    xmlns: http://www.w3.org/2000/svg;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #D5D5D5;
+}
+
+#titlebarContainer {
+    display: flex;
+    justify-content: flex-end;
+    height: 35px;
+    width: 100%;
+    background-color: #6D7993;
+    -webkit-app-region: drag;
+
+}
+
+/* Sizing of close/minimize svg */
+.minimize-svg, .close-svg{
+    width: 35px;
+    height: 35px;
+}
+
+/* One hover, change opacity of color of close/minimize icons */
+.minimize-svg-color, .close-svg-color{
+    fill-opacity: 0;
+    transition: fill-opacity 0.25s ease-out;
+}
+
+.minimize-svg:hover .minimize-svg-color, .close-svg:hover .close-svg-color {
+    fill-opacity: 1;
+    transition: fill-opacity 0.25s ease-out;
+}
+
+#minimize, #close {
+-webkit-app-region: no-drag;
+}
+
+/* Extras */
+
+#extras {
+    height: 50px;
+    border: 3px solid blue;
+}
+
+/* Grid */
+
+#container {
+    display: grid;
+    margin-top: 25px;
+    /*position: absolute;*/
+    left: 0;
+    right: 0;
+    grid-template-columns: 6% 85% 6%;
+    grid-column-gap: 1.5%;
+    /*border: 3px solid blue;*/
+}
+
+#container>div {
+    background-color: #96858F;
+}
+
+#circles {
+    display: block;
+    width: 98%;
+    margin: 0 auto;
+    /*transform: translateX(50%);*/
+>>>>>>> 379d5b310af4239cfb983aeb26e8031c6e70b254
+}
