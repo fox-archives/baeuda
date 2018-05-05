@@ -21,7 +21,7 @@ Create, edit, and study flashcards offline using Baeuda. Baeuda will be a free d
 * See the statistics from a particular set/group/folder
 * Sort statistics from least to greatest on alphabet/numerical value similar to [this](https://en.wikipedia.org/wiki/Help:Table#Section_link_or_map_link_to_a_row_anchor)
 * Star a flashcard term for review later
-* See categorial statistics such as "studied today" or "starred for review" from a particular set/group/folder
+* See categorical statistics such as "studied today" or "starred for review" from a particular set/group/folder
 
 ### Version 2 Release
 * Export all saved flashcards
@@ -44,4 +44,4 @@ Create, edit, and study flashcards offline using Baeuda. Baeuda will be a free d
 * Click on a particular statistic to show how the statistic has changed over time (larger graph, and can modify graph parameters)
 
 ## Other Information
-This will be a desktop application build using Electron. I have a half a year of Java programming experience and zero experience with CSS/JS, so let me know if something about this repository is wrong/irregular and needs to be fixed. Thanks!
+This will be a desktop application build using Electron.
